@@ -9,9 +9,9 @@
 
 🔭 I’m currently working on Web Development.
 
-🌱 I’m currently learning and exploring Data Structures and Algorithms, Android Development, UI/UX Designing, Front End Web Development, Ethereum Blockchain Development.
+🌱 I’m currently learning and exploring Data Structures and Algorithms, Android Development, UI Designing, Front End Web Development, Ethereum Blockchain Development.
 
-⚡️ Interests: Blockchain, UI/UX Designing.
+⚡️ Interests: Blockchain, UI Designing.
 
 🍪 Other interests: Anime & Marvel.
 
