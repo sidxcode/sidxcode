@@ -5,7 +5,7 @@
 
 <h2> About me </h2>
 
-👨🏻‍💻 I’m a Information Technology undergraduate student at Kalinga Institute of Industrial Technology, Odisha. 
+👨🏻‍💻 I’m an Information Technology undergraduate student at Kalinga Institute of Industrial Technology, Odisha. 
 
 🔭 I’m currently working on Web Development.
 
