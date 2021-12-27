@@ -1,6 +1,8 @@
 <h2 align = "center"> Heyy, Siddharth here 👋 </h2>
 
 
+<img src="https://user-images.githubusercontent.com/96107092/147455437-3b2a9e97-03bc-494e-9dc5-615e54375c8e.gif" width='1000'>
+
 <h2> About me </h2>
 
 👨🏻‍💻 I’m a Information Technology undergraduate student at Kalinga Institute of Industrial Technology, Odisha. 
