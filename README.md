@@ -13,9 +13,6 @@
 
 ⚡️ Interests: Blockchain, UI Designing.
 
-🍪 Other interests: Anime & Marvel.
-
-
 📫 How to reach me: siddharth002b@gmail.com
 
 😄 Pronouns: He/Him
