@@ -3,15 +3,13 @@
 
 <img src="https://user-images.githubusercontent.com/96107092/147455437-3b2a9e97-03bc-494e-9dc5-615e54375c8e.gif" width='1000'>
 
-<h2> About me </h2>
+<h2 align = "center"> A Machine and Deep Learning Enthusiast </h2>
 
 👨🏻‍💻 I’m an Information Technology undergraduate student at Kalinga Institute of Industrial Technology, Odisha. 
 
-🔭 I’m currently working on Web Development.
+🔭 I’m currently working on Machine and Deep Learning Projects.
 
-🌱 I’m currently learning and exploring Data Structures and Algorithms, Android Development, UI Designing, Front End Web Development, Ethereum Blockchain Development.
-
-⚡️ Interests: Blockchain, UI Designing.
+🌱 I’m currently learning and exploring Data Structures and Algorithms and Machine learning and android development with flutter.
 
 📫 How to reach me: siddharth002b@gmail.com
 
