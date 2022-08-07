@@ -9,7 +9,7 @@
 
 🔭 I’m currently working on Machine and Deep Learning Projects.
 
-🌱 I’m currently learning and exploring Data Structures and Algorithms and Machine learning and android development with flutter.
+🌱 I’m currently learning and exploring Data Structures and Algorithms and Machine learning.
 
 📫 How to reach me: siddharth002b@gmail.com
 
