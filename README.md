@@ -28,7 +28,7 @@
 
 <h2>Connect With me</h2>
 <p align="left">
-<a href="https://twitter.com/Sidxcode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Siddharth’s twitter" height="30" width="40" /></a>
+<a href="https://twitter.com/heyyxsid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Siddharth’s twitter" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/siddharth-borman-83a6891bb/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Siddharth’s linkdein" height="30" width="40" /></a>
 <a href="https://www.instagram.com/heyyxsid/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Siddharth’s instagram" height="30" width="40" /></a>
 <br>
