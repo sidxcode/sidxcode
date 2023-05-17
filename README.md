@@ -3,13 +3,11 @@
 
 <img src="https://user-images.githubusercontent.com/96107092/147455437-3b2a9e97-03bc-494e-9dc5-615e54375c8e.gif" width='1000'>
 
-<h2 align = "center"> A Webdeveloper and a Machine Learning Enthusiast </h2>
+<h2 align = "center"> A React Native Developer </h2>
 
 👨🏻‍💻 I’m an Information Technology undergraduate student at Kalinga Institute of Industrial Technology, Odisha. 
 
-🔭 I’m currently working on Machine and Deep Learning Projects.
-
-🌱 I’m currently learning and exploring Data Structures and Algorithms and Machine learning.
+🔭 I’m currently creating mobile apps using React Native.
 
 📫 How to reach me: siddharth002b@gmail.com
 
